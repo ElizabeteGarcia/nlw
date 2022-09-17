@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rockeseat.
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://elizabetegarcia.github.io/nlw-esports-explorer/)
 
 ## 🧑‍💻 Tecnologias 
 
